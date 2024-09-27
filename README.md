@@ -6,11 +6,11 @@ I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engine
 - 🔭 I’m currently working on Python and Cloud technologies
 - 🌱 I’m currently learning AWS
 - 👯 I'm working on the Google Professional Certificate for IT Automation with Python
-- 💬 Ask me about Python, JavaScript, Cloud, and Software Development
+- 💬 Ask me about Python, Java, Cloud, and Software Development
 - 😄 Pronouns: He/Him
 
 ### 🛠️ Languages and Tools:
-- **Programming Languages**: Python, JavaScript, C/C++. Bash
+- **Programming Languages**: Python, Java, C/C++. Bash
 - **Frameworks & Libraries**: Flask, Django
 - **Cloud Platforms**: Google Cloud, AWS
 - **Databases**: MySQL, MongoDB, Firebase
