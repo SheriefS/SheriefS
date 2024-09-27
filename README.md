@@ -20,7 +20,7 @@ I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engine
 
 
 ### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheriefS&layout=compact&theme=radical,html&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheriefS&layout=compact&theme=cobalt,html&langs_count=5)
 
 ### 📫 Connect with Me:
 - [LinkedIn](www.linkedin.com/in/sherief-soliman-2a6851209)
