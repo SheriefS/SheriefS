@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Sherief Soliman 👋
 
 I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engineer
