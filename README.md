@@ -4,7 +4,7 @@ I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engine
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on Python and Cloud technologies
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Kubernetes
 - 👯 I'm working on the Google Professional Certificate for IT Automation with Python
 - 💬 Ask me about Python, Java, Cloud, and Software Development
 - 😄 Pronouns: He/Him
