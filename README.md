@@ -1,11 +1,11 @@
 # Hi there, I'm Sherief Soliman 👋
 
-I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engineer
+I'm a recent graduate in Computer Engineering aspiring to become a Cloud DevOps Engineer
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on Python and Cloud technologies
 - 🌱 I’m currently learning Kubernetes
-- 👯 I'm working on the Google Professional Certificate for IT Automation with Python
+- 👯 I have completed the Google Professional Certificate for IT Automation with Python
 - 💬 Ask me about Python, Java, Cloud, and Software Development
 - 😄 Pronouns: He/Him
 
