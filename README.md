@@ -18,7 +18,7 @@ I'm a recent graduate in Computer Engineering aspiring to become a DevOps Engine
 - **DevOps**: Docker, Kubernetes
 
 ###  WIP
-  _BPMN Translator to be deployed using Kubernetes soon_
+  _BPMN Translator to be deployed using Kubernetes_
 
 
 
