@@ -6,7 +6,7 @@ I'm a recent graduate in Computer Engineering aspiring to become a Cloud DevOps 
 - 🔭 I’m currently working on Python and Cloud technologies
 - 🌱 I’m currently learning Kubernetes
 - 👯 I have completed the Google Professional Certificate for IT Automation with Python
-- 💬 Ask me about Python, Java, Cloud, and Software Development
+- 💬 Ask me about Python, CI/CD, Cloud, and Software Development
 - 😄 Pronouns: He/Him
 
 ### 🛠️ Languages and Tools:
@@ -15,10 +15,9 @@ I'm a recent graduate in Computer Engineering aspiring to become a Cloud DevOps 
 - **Cloud Platforms**: Google Cloud, AWS
 - **Databases**: MySQL, MongoDB, Firebase
 - **Version Control**: Git
-- **DevOps**: Docker, Kubernetes
+- **DevOps**: Docker, Kubernetes, Jenkins
 
-###  WIP
-  _BPMN Translator to be deployed using Kubernetes_
+Working on full CI/CD pipeline for QRgenix web application development
 
 
 
