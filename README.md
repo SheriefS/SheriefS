@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [QRgenix](https://github.com/SheriefS/QRgenix)
 
-- 🌱 I’m currently learning **DevOps through the full KodeKloud DevOps Engineer**
+- 🌱 I’m currently learning **Linux in preparation for LFCS**
 
 - 💬 Ask me about **Automation, Testing, or Cloud-native applications**
 
